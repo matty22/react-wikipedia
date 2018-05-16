@@ -1,0 +1,10 @@
+
+.resultsLink {
+  display: block;
+  width: 400px;
+  box-shadow: 1px 3px 3px rgba(0, 0, 0, 0.5);
+  background-color: #ffffff;
+  margin: 20px 0px;
+  text-decoration: none;
+  color: #262626;
+}
